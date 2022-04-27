@@ -1,0 +1,15 @@
+.UserCV {
+    background: rgb(255,255,255);
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(240,240,240,1) 35%, rgba(231,231,231,1) 100%);
+    width: 600px;
+    height: 700px;
+    margin-left: 110px;
+    margin-top: 20px;
+    border: 1px solid rgb(214, 214, 214);
+    border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    -ms-border-radius: 6px;
+    -o-border-radius: 6px;
+    display: flex;
+}

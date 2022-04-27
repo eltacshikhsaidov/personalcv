@@ -1,0 +1,41 @@
+.Profile {
+    background-color: blueviolet;
+    width: 240px;
+    height: 393px;
+    margin: 5px;
+    border-radius: 7px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -ms-border-radius: 7px;
+    -o-border-radius: 7px;
+}
+
+img {
+    height: 130px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+.FullName {
+    text-align: center;
+    font-size: 13px;
+    color: wheat;
+}
+
+hr {
+    width: 85%;
+}
+
+.PersonalInfo {
+    font-weight: bold;
+    margin: 11px;
+}
+
+span {
+    color: rgb(240, 170, 113);
+}

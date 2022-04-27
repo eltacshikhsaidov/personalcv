@@ -1,0 +1,11 @@
+.Row {
+    background-color: gray;
+    width: 340px;
+    height: 168px;
+    margin: 5px;
+    border-radius: 7px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -ms-border-radius: 7px;
+    -o-border-radius: 7px;
+}

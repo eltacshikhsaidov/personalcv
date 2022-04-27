@@ -1,0 +1,28 @@
+.Contacts {
+    background-color: rgb(182, 148, 214);
+    width: 240px;
+    height: 290px;
+    margin: 5px;
+    border-radius: 7px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -ms-border-radius: 7px;
+    -o-border-radius: 7px;
+}
+
+h2 {
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+    color: rgb(166, 20, 137);
+}
+
+ul {
+    line-height: 28px;
+    color: rgb(65, 32, 32);
+    margin-left: -9px;
+}
+
+a {
+    color: rgb(122, 74, 144);
+}
