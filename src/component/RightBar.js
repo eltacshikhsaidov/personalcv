@@ -49,10 +49,10 @@ export class RightBar extends Component {
                     <hr></hr>
                     <div className='Projects'>
                         <ul>
-                            <li>SmartPay - <a href='#'>smartpay.az</a></li>
-                            <li>SubLMS - <a href='#'>sublms.org</a></li>
-                            <li>Polextron - <a href='#'>ploextron.io</a></li>
-                            <li>Grantsolutions - <a href='#'>grantsolutions.com</a></li>
+                            <li>SmartPay - <a href='/smartpay'>smartpay.az</a></li>
+                            <li>SubLMS - <a href='/sublms'>sublms.org</a></li>
+                            <li>Polextron - <a href='/ploex'>ploextron.io</a></li>
+                            <li>Grantsolutions - <a href='/grant'>grantsolutions.com</a></li>
                         </ul>
                     </div>
                 </Row>
