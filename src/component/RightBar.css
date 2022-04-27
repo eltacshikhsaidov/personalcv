@@ -1,5 +1,19 @@
 .RightBar {
-    background-color: aquamarine;
+    background-color: rgb(233, 213, 218);
     width: 350px;
     height: 700px;
+}
+
+.Courses ul {
+    line-height: 25px;
+}
+
+.Skills ul {
+    line-height: 25px;
+    list-style: square;
+}
+
+.Projects ul {
+    line-height: 25px;
+    list-style: none;
 }

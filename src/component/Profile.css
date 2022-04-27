@@ -1,5 +1,5 @@
 .Profile {
-    background-color: blueviolet;
+    background-color: rgb(77, 76, 125);
     width: 240px;
     height: 393px;
     margin: 5px;
@@ -11,14 +11,14 @@
 }
 
 img {
-    height: 130px;
+    height: 140px;
     border-radius: 50%;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
     -o-border-radius: 50%;
     margin-left: 50px;
-    margin-top: 10px;
+    margin-top: 15px;
 }
 
 .FullName {

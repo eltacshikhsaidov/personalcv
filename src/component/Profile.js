@@ -10,7 +10,7 @@ export default class Profile extends Component {
                     <h1>Thomas Johnson</h1>
                     <hr></hr>
                     <div className='PersonalInfo'>
-                        About me
+                        <h3>About me</h3>
                         <p>
                            I was a web developer in <span>Starex</span>,<br></br>
                            since first year of university I started to work in 

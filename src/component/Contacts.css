@@ -1,5 +1,5 @@
 .Contacts {
-    background-color: rgb(182, 148, 214);
+    background-color: rgb(54, 48, 98);
     width: 240px;
     height: 290px;
     margin: 5px;
@@ -14,15 +14,23 @@ h2 {
     margin: 0;
     padding: 10px;
     text-align: center;
-    color: rgb(166, 20, 137);
+    color: rgb(233, 213, 218);
 }
 
 ul {
     line-height: 28px;
-    color: rgb(65, 32, 32);
+    color: rgb(54, 48, 98);
     margin-left: -9px;
 }
 
+.Contacts ul {
+    color: rgb(233, 213, 218);
+}
+
+.Contacts a {
+    color: rgb(130, 115, 151);
+}
+
 a {
-    color: rgb(122, 74, 144);
+    color: rgb(233, 213, 218);
 }

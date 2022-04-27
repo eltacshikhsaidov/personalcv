@@ -1,10 +1,11 @@
 import './App.css';
-import { UserCV } from './component/UserCV';
+import Print from './component/Print';
 
 function App() {
   return (
     <div className="App">
-      <UserCV />
+      {/* For printing document */}
+      <Print />
     </div>
   );
 }
